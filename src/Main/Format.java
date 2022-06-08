@@ -24,9 +24,9 @@ public class Format {
         return Integer.parseInt(next);
     }
 
-    static long rating(String next) {
+    static int rating(String next) {
         next = next.replace(" ", "");
-        return Long.parseLong((next));
+        return Integer.parseInt((next));
     }
 
 

@@ -1,1 +1,4 @@
 Noodlea/02123456/Rice_Noodle/6000/4
+Noodleb/02123456/Rice_Noodle/6000/5
+Ramen/02123456/aori_ramen/7000/4
+Noodled/1234/test/4321/1
