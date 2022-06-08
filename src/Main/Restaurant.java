@@ -199,7 +199,7 @@ public class Restaurant implements Comparable<Restaurant>{
     }
 
     private String getString() {
-        String str = getName()+"\t/"+getPhone()+"\t/"+getSignature_Menu()+"\t/"+getMenu_Price()+"\t/";
+        String str = getName()+"\t/"+getPhone()+"\t/"+getSignature_Menu()+"\t\t/"+getMenu_Price()+"\t/";
         for (int i = 0; i < getRating(); i++) {
             str=str+"*";
         }
