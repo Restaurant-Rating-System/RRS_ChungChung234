@@ -1,6 +1,5 @@
 # rating_system
 Restaurant Raiting System with Java
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀
@@ -31,10 +30,3 @@ Restaurant Raiting System with Java
 　　'　　　임포스터가 1명 남았습니다 　 　　。
 
 　　ﾟ　　　.　　　. ,　　　　.　 .
-
-
-
-
-
-
-
